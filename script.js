@@ -36,6 +36,8 @@ const obstacles = [
 	{type:'ladder', start:80, end:99}
 ];
 
+// Start setup
+
 canvas.width = width;
 canvas.height = height;
 wrapper.style.width = `${width}px`;
