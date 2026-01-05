@@ -12,8 +12,6 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 - Game (Working on it)
 - Contact
 
-<div align="center">
-<a href="https://github.com/Itankar-Vedant/Portfolio.git"><strong>➥ Live Demo</strong></a>
 
 <p align="center"><b>If you found the code useful, please feel free to fork it and modify it as you see fit.</p? <br>
 </div>
