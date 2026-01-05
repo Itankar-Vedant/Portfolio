@@ -20,4 +20,4 @@ Website Using HTML, CSS, SCSS and JavaScript, with a wonderful user interface.
 
 
 
-<p align="center"><b>© Created by Praveen Mishra</b></p?
+<p align="center"><b>© Created by Vedant Itankar</b></p?
